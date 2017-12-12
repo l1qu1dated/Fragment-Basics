@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/Marek/AndroidStudioProjects/FragmentBasics/app/build/intermediates/res/merged/debug/values/values.xml",
+        "outputFile": "C:\\Users\\Marek\\AndroidStudioProjects\\FragmentBasics\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,37 @@
                     "endOffset": 103
                 },
                 "from": {
-                    "file": "/Users/Marek/AndroidStudioProjects/FragmentBasics/app/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\Marek\\AndroidStudioProjects\\FragmentBasics\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
                         "startOffset": 642,
                         "endColumn": 52,
                         "endOffset": 690
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Igor\\AndroidStudioProjects\\FragmentBasics\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "C:\\Users\\Igor\\AndroidStudioProjects\\FragmentBasics\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 660,
+                        "endColumn": 53,
+                        "endOffset": 709
                     }
                 }
             }

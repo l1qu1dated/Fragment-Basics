@@ -1,0 +1,4 @@
+#Fri Jun 09 10:37:43 EDT 2017
+base.0=C\:\\Users\\Igor\\AndroidStudioProjects\\FragmentBasics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_e2e3aeac68c381fb7ba73b7f0fcc67ed21a93e80
+renamed.0=classes.dex
+file.0=C\:\\Users\\Igor\\AndroidStudioProjects\\FragmentBasics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_e2e3aeac68c381fb7ba73b7f0fcc67ed21a93e80\\classes.dex
